@@ -22,7 +22,7 @@ function QandA() {
         </p>
         <h2>お問い合わせ</h2>
         <p>ご質問等ございましたら以下のページへご連絡ださい</p>
-        <a href="https://portfolio-beta-var1.vercel.app/" target="_blank">
+        <a href="https://portfolio-kt-three.vercel.app/" target="_blank">
           <Button>作者の連絡先</Button>
         </a>
       </div>
