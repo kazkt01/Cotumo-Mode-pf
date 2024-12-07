@@ -1,4 +1,4 @@
-// 初代
+// シンプルにfirebase側でルールの日付変更するだけでテストモード継続できる
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
